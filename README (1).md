@@ -24,7 +24,7 @@ flowchart TD
     A[World COVID Statistics] --> B[COVID Testing];
     B[COVID Testing] --> C[COVID Vaccinations];
     C[COVID Vaccinations] --> D[Measure];
-    D[Measure] --> A[World COVID Statistics]
+    D[Measures] --> A[World COVID Statistics]
 ```
 
 
