@@ -30,5 +30,24 @@ flowchart TD
 
 ## Demo
 
-Insert gif or link to demo
+### Dashboard 1: World COVID Statistics
+
+![World ](https://user-images.githubusercontent.com/101548286/158243857-212507c2-b924-4b13-80f1-7dc93f802f74.gif)
+
+- The user can select region of his choice on the dynamic map as per his choice
+- Several Static Cards show data at global level and Top 10 Countries in various counters
+
+### Dashboard 2: COVID Testing
+
+![Testing](https://user-images.githubusercontent.com/101548286/158245962-4513fc24-e094-4e01-840c-a17707851854.gif)
+
+- Selection of country from right slicer changes the graphs dynamically to seected country data
+- Static cards show data at global level and Top 10 Countries for the mentioned counter
+- Similary Dashboard 3 and 4 depict data for Vaccination and Measures
+
+
+
+## Understanding Insights
+The repository contains Powerpoint presentation describing the project in detail while it also makes one understand the insights derived from the project and the probelm statment that have been approached
+
 
