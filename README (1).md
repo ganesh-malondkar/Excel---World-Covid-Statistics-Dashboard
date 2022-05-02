@@ -2,6 +2,7 @@
 # **World Covid Statistics Dashboard**
 
 This is my first Dashboard created on Excel as a part of my Excel Dashboarding Assignment with [Board Infinity](https://www.boardinfinity.com/)
+[Google link to Dashboard](https://docs.google.com/spreadsheets/d/1KEnQ9J2KEICfpnYzn-7MvP7di2RHA4yA/edit?usp=sharing&ouid=117081134220231896233&rtpof=true&sd=true)
 
 **Objectives of Dashboarding**
 - Solve 10-15 self-formulated Problem Statements over the Dataset
