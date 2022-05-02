@@ -48,6 +48,6 @@ flowchart TD
 
 
 ## Understanding Insights
-The repository contains Powerpoint presentation describing the project in detail while it also makes one understand the insights derived from the project and the probelm statment that have been approached
+The repository contains Powerpoint presentation describing the project in detail while it also makes one understand the insights derived from the project and the problem statment that have been approached
 
 
